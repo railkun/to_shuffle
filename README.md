@@ -25,7 +25,7 @@ Or install it yourself as:
 TODO: This gem add method 'to_shuffle'.
 ('bla bla').to_shuffle {'test test'}
  or
-('bla bla').to_shuffle 
+('bla bla').to_shuffle  .
 
 ## Development
 
